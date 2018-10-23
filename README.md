@@ -5,7 +5,7 @@ Brainerd lab XROMM/XMA files for knifefish feeding.
 * [Elska Kaczmarek](https://github.com/elskabette)
 * Ellen Li
 * [Aaron Olsen](https://github.com/aaronolsen)
-* Ariel Camp
+* [Ariel Camp](https://github.com/ArielCamp)
 
 # Other data
 [Digitization spreadsheet](https://docs.google.com/spreadsheets/d/1I3sPOnXtREn-hKa4gzUIkPRm4lMXhSOOwGqkHPo1QiQ/edit?usp=sharing)
